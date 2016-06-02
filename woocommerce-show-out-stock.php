@@ -1,0 +1,1 @@
+<?php query_posts( 'showposts=150&post_type=product&meta_key=_stock_status&meta_value=outofstock' ); ?>
